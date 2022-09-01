@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ads-reward:13.4.52.302@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13292bef748fea0a161155f3df2721a9/jetified-ads-reward-13.4.52.302/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f641e28761d9776c7feedf908b65da1/jetified-ads-reward-13.4.52.302/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f641e28761d9776c7feedf908b65da1/jetified-ads-reward-13.4.52.302/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f641e28761d9776c7feedf908b65da1/jetified-ads-reward-13.4.52.302/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

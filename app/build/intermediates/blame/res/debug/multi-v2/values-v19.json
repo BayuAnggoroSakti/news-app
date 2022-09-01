@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\developer\\.gradle\\caches\\transforms-2\\files-2.1\\0583312d461a3e60eebcaf9eb5a39b1c\\jetified-ads-core-3.4.52.302\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,230",
+                        "endLines": "4,5",
+                        "endColumns": "12,118",
+                        "endOffsets": "225,344"
+                    }
+                }
+            ]
+        }
+    ]
+}

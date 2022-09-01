@@ -1,0 +1,7 @@
+#Tue Mar 22 14:48:11 ICT 2022
+base.1=D\:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-television-v13\\values-television-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\developer\\.gradle\\caches\\transforms-2\\files-2.1\\0a80d3bec0ee85dd0d3935d0d2118c15\\jetified-update-2.0.7.302\\res\\values-television-v13\\values-television-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,162",
+                        "endColumns": "52,53,52",
+                        "endOffsets": "103,157,210"
+                    }
+                }
+            ]
+        }
+    ]
+}

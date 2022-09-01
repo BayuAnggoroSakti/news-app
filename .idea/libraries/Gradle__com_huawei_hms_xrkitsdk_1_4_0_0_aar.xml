@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:xrkitsdk:1.4.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d73d43b7bd14b435052f95ca975044c5/jetified-xrkitsdk-1.4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc1c0ef3b62d61d10229147d77061951/jetified-xrkitsdk-1.4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc1c0ef3b62d61d10229147d77061951/jetified-xrkitsdk-1.4.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc1c0ef3b62d61d10229147d77061951/jetified-xrkitsdk-1.4.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/xrkitsdk/1.4.0.0/da39a3ee5e6b4b0d3255bfef95601890afd80709/xrkitsdk-1.4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/xrkitsdk/1.4.0.0/da39a3ee5e6b4b0d3255bfef95601890afd80709/xrkitsdk-1.4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

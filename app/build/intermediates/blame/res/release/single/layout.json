@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_splash_ads.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\activity_splash_ads.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_detail_news.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\activity_detail_news.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\banner.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragement_news.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\fragement_news.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_layout_2.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\activity_layout_2.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_login_2.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\activity_login_2.xml"
+    },
+    {
+        "merged": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\list_item_news.xml",
+        "source": "D:\\Development\\Android\\ITTS_Huawei\\Assignment3\\NewsApp-main\\app\\src\\main\\res\\layout\\list_item_news.xml"
+    }
+]

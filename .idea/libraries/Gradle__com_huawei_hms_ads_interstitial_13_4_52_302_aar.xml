@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ads-interstitial:13.4.52.302@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6d68d2ee5b37c48cd2a31079e2ac0a6/jetified-ads-interstitial-13.4.52.302/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d3cac9deade7a55bc4ac75abf7d8bea/jetified-ads-interstitial-13.4.52.302/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d3cac9deade7a55bc4ac75abf7d8bea/jetified-ads-interstitial-13.4.52.302/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d3cac9deade7a55bc4ac75abf7d8bea/jetified-ads-interstitial-13.4.52.302/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

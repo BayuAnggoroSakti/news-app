@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_browser_tips">[CS_581878]_Install a browser app first.</string>
+    <string name="opendevice_ad_info">[CS_528364]_Ad information</string>
+    <string name="opendevice_ad_privacy_statement">[CS_528368]_Statement About Ads and Privacy</string>
+    <string name="opendevice_all_advertisers">[CS_528347]_All advertisers</string>
+    <string name="opendevice_bt_cancel">[CS_528357]_CANCEL</string>
+    <string name="opendevice_bt_reset">[CS_528366]_RESET</string>
+    <string name="opendevice_dlg_msg_ad_reset">[CS_528356]_A new Ad-ID will be randomly assigned.</string>
+    <string name="opendevice_dlg_title_reset_ad">[CS_528354]_Reset Ad-ID</string>
+    <string name="opendevice_here">[CS_533271]_here</string>
+    <string name="opendevice_hw_ad_service">[CS_532388]_Ads and privacy</string>
+    <string name="opendevice_hw_ad_service_new">[CS_697646]_Ads</string>
+    <string name="opendevice_item_ad_reset_desc">[CS_557084]_You can opt out of receiving personalized ads that use your Ad-ID. If you opt out, you will still receive ads, but they may be less relevant to you. %1$s</string>
+    <string name="opendevice_item_collection_ad_desc_more_info">[CS_705573]_Learn more about data use and your rights</string>
+    <string name="opendevice_item_disable_collection_ad">[CS_533273]_Disable collection of Ad-ID statistics</string>
+    <string name="opendevice_item_disable_collection_ad_desc">[CS_533272]_We will collect information about your onscreen actions in these settings and about apps that use your Ad-ID in order to improve our services. For more information on how we use this data, touch %1$s.</string>
+    <string name="opendevice_item_disable_collection_ad_desc_new">[CS_705572]_We will collect information about your onscreen actions in these settings and about apps that use your Ad-ID in order to improve our services.</string>
+    <string name="opendevice_item_more_settings">[CS_533270]_More information</string>
+    <string name="opendevice_item_oaid_desc">[CS_557083]_Your Ad-ID (also known as an OAID) is a temporary device identifier used to provide you with personalized ads.</string>
+    <string name="opendevice_item_reset_ad">[CS_528353]_Reset Ad-ID</string>
+    <string name="opendevice_item_reset_ad_des_new">[CS_705568]_You can opt out of receiving personalized ads that use your Ad-ID. If you opt out, you will still receive ads, but they may be less relevant to you.</string>
+    <string name="opendevice_item_your_oaid">[CS_533275]_Your Ad-ID</string>
+    <string name="opendevice_limit_ad_tracking">[CS_528348]_Disable personalized ads</string>
+    <string name="opendevice_limit_ad_tracking_detail">[CS_555782]_Learn more</string>
+    <string name="opendevice_limit_recommend">[CS_863071]_Smart Recommendations</string>
+    <string name="opendevice_network_no_available">[CS_528349]_No Internet connection</string>
+    <string name="opendevice_privacy_desc">[CS_555783]_Personalized advertising services recommend content you may be interested in. Your privacy will be protected at all times. For more details, please see the %1$s.</string>
+    <string name="opendevice_privacy_desc_new">[CS_705569]_Personalized advertising services recommend content that you may be interested in. Your privacy will be protected at all times. For more information, please see the following:</string>
+    <string name="opendevice_privacy_oversea_desc">[CS_576623]_The HUAWEI Ads platform provides advertising services for Huawei Mobile Services and third-party apps. If personalized ads are enabled, your personal data may be used to provide you with more relevant and useful ads. To learn more about how your data is used and about your rights, please refer to the %1$s.</string>
+    <string name="opendevice_privacy_oversea_desc_new">[CS_705571]_The HUAWEI Ads platform provides advertising services for Huawei Mobile Services and third-party apps. If personalized ads are enabled, your personal data may be used to provide you with more relevant and useful ads. To learn more about how your data is used and about your rights, please refer to the following:</string>
+    <string name="opendevice_recommend_desc">[CS_863070]_This feature uses federated learning technology to recommend products and services you may like.</string>
+    <string name="opendevice_setting_network">[CS_528367]_Network settings</string>
+    <string name="opendevice_title_oaid">[CS_528365]_Device identifier</string>
+    <string name="opendevice_title_oaid_statement">[CS_533269]_About OAID</string>
+    <string name="opendevice_title_stattistics_statement">[CS_533268]_Statement About Ad-ID Statistical Analysis</string>
+    <string name="opendevice_view_ad_info">[CS_528362]_Ad information</string>
+</resources>
